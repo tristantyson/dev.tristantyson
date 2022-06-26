@@ -3,7 +3,7 @@ layout: single
 title:  "Write your first C# code."
 date:   2022-05-19 12:00:00 +0000
 categories: C#
-permalink: write-your-first-c#-code
+permalink: write-your-first-c-code
 tags:
   - C#
   - Take your first steps with C#

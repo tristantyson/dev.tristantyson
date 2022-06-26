@@ -238,3 +238,6 @@ Console.WriteLine($@"C:\Output\{projectName}\Data");
 ```
 
 Output:
+```
+C:\Output\First-Project\Data
+```
